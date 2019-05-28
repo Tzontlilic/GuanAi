@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <br/>
 <p align="center">
   <a href="http://devlight.io">
@@ -371,3 +372,7 @@ Thanks in advance.
 
 Devlight LLC, 2016  
 [devlight.io](http://devlight.io) 
+=======
+# GuanAi
+An application about cats and dogs.
+>>>>>>> e8ce68f57ccefa4da4246ece88872e1a7a913e91
